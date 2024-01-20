@@ -1,0 +1,14 @@
+# Angular
+/node_modules
+/dist
+
+# .NET Core
+/bin/
+/obj/
+/.vs/
+/*.dll
+/*.exe
+/*.pdb
+/*.user
+/*.tmp
+/*.log
